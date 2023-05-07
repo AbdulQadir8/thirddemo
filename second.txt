@@ -2,4 +2,3 @@ This is second.txt
 
 This is me Abdul Qadir
 
-This is me Usama
